@@ -15,4 +15,9 @@ of in-depth research and openness, acting as a useful tool for students and fami
 navigating the challenges of affording college as well as a potent lobbying tool for 
 legislative change.
 
+**Tableau link:**
+1.https://public.tableau.com/app/profile/chaitanya.pallamreddy/viz/TuitionFeeVsMedianIncome/Dashboard1 
+2.https://public.tableau.com/app/profile/chaitanya.pallamreddy/viz/Top10UniversitiesinEachState/Dashboard1
+3.https://public.tableau.com/app/profile/chaitanya.pallamreddy/viz/AVERAGETUITIONFEEVSSTATE/Dashboard1
+
 
